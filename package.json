@@ -1,0 +1,22 @@
+{
+  "name": "observability",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielladdie/Observability.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielladdie/Observability/issues"
+  },
+  "homepage": "https://github.com/gabrielladdie/Observability#readme",
+  "dependencies": {
+    "@opentelemetry/exporter-jaeger": "^1.12.0"
+  }
+}
